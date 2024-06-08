@@ -11,7 +11,7 @@ public class BDInitializer {
         String url = "jdbc:mysql://localhost:3306/";
         String username = "root"; // your username
         String password = "Mulubrihan2126_"; // your password
-        String databaseName = "new_database2";
+        String databaseName = "new_database3";
 
         // Creating the database
         createDatabase(url, username, password, databaseName);
